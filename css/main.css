@@ -1,0 +1,129 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+#sitecontainer
+{
+	width: 780px;
+	margin: 0 auto;
+}
+
+#container
+{
+	width: 740px;
+	margin: 20px auto;
+}
+
+#container ul li {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+
+}
+
+
+body
+{
+	font-family: Arial, Helvetica, san-serif;
+	font-size: 14px;
+	color: #333;
+}
+
+h1
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 34px;
+	line-height: 60px;
+}
+
+h2
+{
+	font-family: "Merriweather", Times, serif;
+	font-size: 20px;
+	line-height: 30px;
+	background-color: #d9d9d9;
+	margin: 50px 0 20px 0;
+}
+
+h3
+{
+	font-family: "Raleway400", Times, serif;
+	font-size: 18px;
+	line-height: 30px;
+}
+
+h4
+{
+	font-family: "Raleway:300i", Times, serif;
+	font-size: 24px;
+	line-height: 30px;
+	color: #4d4d4d;
+	letter-spacing: 2px;
+}
+
+
+p
+{
+	font-family: "Raleway", sans-serif, Times, serif;
+	line-height: 24px;
+	margin-bottom: 2px;
+	font-size: 16px
+	color:  #4d4d4d;
+}
+
+#itembox {
+  display: inline-block;
+  width: 240px;
+  height: auto;
+	text-align:center;
+}
+
+#itembox p {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+}
+
+
+
+#textcontainer
+{
+	width: 740px;
+	margin: 20px auto;
+}
+
+#textcontainer p:first-letter
+{
+	font-size: 1.5em;
+	color: #333333;
+	font-weight: bold;
+}
+
+mark {
+  display: inline-block;
+  line-height: 0em;
+  padding-bottom: 0.5em;
+}
+
+#logo {
+	margin-right: auto;
+	padding: 10px;
+}
+
+
+#info
+{
+	width: 740px;
+	margin: 20px auto;
+	margin-top: 50px;
+}
+
+#info h3 {
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#info p {
+	font-family: "Merriweather", Times, serif;
+	font-size: 14px;
+}
